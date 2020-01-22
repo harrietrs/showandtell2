@@ -26,18 +26,13 @@ Edwina Dunn and Clive Humby
 :END:
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/memphis-ems.jpeg]]
-*
+* 
 :PROPERTIES:
 :CUSTOM_ID: shipping_project
 :END:
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/shipping-map.png]]
-# *
-# :PROPERTIES:
-# :CUSTOM_ID: learning_org_mode
-# :reveal_background: ./img/org-mode-screenshot.png
-# :reveal_background_trans: slide
-# :END:
+
 * The best cheese
 :PROPERTIES:
 :CUSTOM_ID: end_slide
