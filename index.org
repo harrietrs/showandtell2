@@ -1,0 +1,46 @@
+#+OPTIONS: toc:nil timestamp:nil email:nil reveal_history:t
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_THEME: white
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><p style:"text-transform:capitalize;">%s</p><p><small>%a</small></p>
+#+TITLE: A short tale about cheese
+#+SUBTITLE: Among other things
+#+AUTHOR: by Harriet Sands
+
+* Not a real tube map
+:PROPERTIES:
+:CUSTOM_ID: my_career
+:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
+[[./img/career-map-cheese.png]]
+* 
+:PROPERTIES:
+:CUSTOM_ID: who_are_these_people
+:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
+[[./img/clive-and-edwina.jpg]]
+#+ATTR_REVEAL: :frag (appear)
+Edwina Dunn and Clive Humby
+* 
+:PROPERTIES:
+:CUSTOM_ID: memphis
+:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
+[[./img/memphis-ems.jpeg]]
+*
+:PROPERTIES:
+:CUSTOM_ID: shipping_project
+:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
+[[./img/shipping-map.png]]
+# *
+# :PROPERTIES:
+# :CUSTOM_ID: learning_org_mode
+# :reveal_background: ./img/org-mode-screenshot.png
+# :reveal_background_trans: slide
+# :END:
+* The best cheese
+:PROPERTIES:
+:CUSTOM_ID: end_slide
+:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:40%; max-height:100%; text-align:center
+[[./img/moliterno.png]]
